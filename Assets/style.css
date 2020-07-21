@@ -19,9 +19,14 @@
 }
 
 .jumbotron {
-    background-color: mediumaquamarine;
+    background-color: darkgrey;
 }
 
 .page {
-    background-color: darkgrey;
+    background-color: lightgrey;
+}
+
+.title-bar {
+    font-size: xx-large;
+    font-weight: bold;
 }
