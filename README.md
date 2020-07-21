@@ -1,7 +1,7 @@
 # teamProfileBuilder-HW10
 
 Screenshot of Deployed Application
-![Image description](https://github.com/jherd801/teamProfileBuilder-HW10/blob/master/assets/Screenshot.png)
+![Image description](https://github.com/jherd801/teamProfileBuilder-HW10/blob/master/Assets/Screenshot.png)
 
 
 # Description:
