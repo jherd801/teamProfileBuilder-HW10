@@ -1,0 +1,27 @@
+.engineer-header {
+    background-color: lightgreen;
+}
+
+.manager-header {
+    background-color: lightsalmon;
+}
+
+.intern-header {
+    background-color: lightslategray;
+}
+
+.employee-card {
+    margin: 15px;
+}
+
+.dark-row {
+    background-color: lightsteelblue;
+}
+
+.jumbotron {
+    background-color: mediumaquamarine;
+}
+
+.page {
+    background-color: darkgrey;
+}
